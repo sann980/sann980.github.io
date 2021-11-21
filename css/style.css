@@ -1,0 +1,23 @@
+.btn-green {
+    background-color: green;
+    color: white;
+}
+
+.btn-blue {
+    background-color:blue;
+    color: white;
+}
+
+.btn-orange {
+    background-color: orange;
+    color: black;
+}
+
+.btn-corQuadra {
+    background-color: rgb(216, 87, 184);
+    color: black;
+}
+
+.cor-rodape {
+    background-color: burlywood;
+}
